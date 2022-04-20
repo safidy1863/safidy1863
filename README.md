@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safidy</h1>
 <h3 align="center">computer enthusiast</h3>
 
-- 💬 Ask me about **react,vue**
+- 💬
 
 - 📫 How to reach me **robustemmanuel@gmail.com**
 
