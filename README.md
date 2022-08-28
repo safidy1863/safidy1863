@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm ROBUSTE</h1>
-<h3 align="center">computer enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Safidy  </h1>
 
 - 💬
 
