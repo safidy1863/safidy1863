@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Safidy  </h1>
+<div borderBottom="1px">
+   <h2 align="center">Hi 👋, I'm Safidy  </h2>
+</div>
 
 - 💬
 
