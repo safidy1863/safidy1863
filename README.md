@@ -2,9 +2,8 @@
    <h2 align="center">Hi 👋, I'm Safidy  </h2>
 </div>
 
-- 💬
 
-- 📫 How to reach me **robustemmanuel@gmail.com**
+***robustemmanuel@gmail.com***
 
 ### Connect with me
 <p align="left">
