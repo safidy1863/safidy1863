@@ -20,8 +20,6 @@
       <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-
  </p>
   <p align="center">
    <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=safidy1863&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)"/>
