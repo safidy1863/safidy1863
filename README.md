@@ -4,7 +4,6 @@
 
 <p align="center">
       <a href="https://www.linkedin.com/in/manohisafidy-robuste/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://www.facebook.com/safidy.safidy.7545"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
       <a href="https://gitlab.com/safidy1863"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  </p>
 
